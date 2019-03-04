@@ -1,0 +1,16 @@
+PODS:
+  - QFRouter (0.1.0)
+
+DEPENDENCIES:
+  - QFRouter (from `../`)
+
+EXTERNAL SOURCES:
+  QFRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QFRouter: 8f463c497cd4bcdb5c61e992aa8f38361399b59e
+
+PODFILE CHECKSUM: cff3a06fb1aa3b3ae31fd6be4a64cfc062cc4651
+
+COCOAPODS: 1.6.1

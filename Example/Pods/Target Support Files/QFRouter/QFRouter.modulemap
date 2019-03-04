@@ -1,0 +1,6 @@
+framework module QFRouter {
+  umbrella header "QFRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}
